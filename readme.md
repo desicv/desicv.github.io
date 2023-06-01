@@ -39,7 +39,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![girl](https://github.com/desicv/desicv.github.io/blob/master/Medios/perro.png))
 
 # 2. Memoria del proyecto 
 
